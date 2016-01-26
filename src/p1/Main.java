@@ -5,7 +5,7 @@ package p1;
  * CSC 164
  * Uros Vorkapic
  * Jan 21, '16
- * Version 0.9
+ * Version 1.0
  */
 
 import java.util.Scanner;
